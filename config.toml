@@ -278,5 +278,5 @@ theme = "hugo-elate-theme"
   # Footer section
   [params.footer]
     enable = true
-    copyright = 'Remote-Freelancers 2018 - <a target="_blank" href="https://lp1.eu">lp1.eu</a>. <br/>The lovely theme I used is &copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
+    copyright = 'Remote-Freelancers 2018 - <a target="_blank" href="https://lp1.eu">lp1.eu</a>. <br/>The lovely theme I used is &copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-103622536-3"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "UA-103622536-3");</script>'
     links = []
